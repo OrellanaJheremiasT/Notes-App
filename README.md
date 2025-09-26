@@ -1,8 +1,8 @@
 # 📝 Notes App
 
 [![Java](https://img.shields.io/badge/Java-11+-blue)](https://www.java.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/OrellanaJheremiasT/Pomodoro-Clock)](https://github.com/OrellanaJheremiasT/Pomodoro-Clock/issues)  
-[![Stars](https://img.shields.io/github/stars/OrellanaJheremiasT/Pomodoro-Clock?style=social)](https://github.com/OrellanaJheremiasT/Pomodoro-Clock/stargazers)  
+[![Issues](https://img.shields.io/github/issues/OrellanaJheremiasT/Pomodoro-Clock)](https://github.com/OrellanaJheremiasT/Pomodoro-Clock/issues)  [![Stars](https://img.shields.io/github/stars/OrellanaJheremiasT/Pomodoro-Clock?style=social)](https://github.com/OrellanaJheremiasT/Pomodoro-Clock/stargazers)  
+
 
 A **console-based Notes Application** in Java to easily create, view, edit, and delete text notes on your local machine.
 
